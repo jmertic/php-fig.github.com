@@ -176,6 +176,13 @@ Do not combine separate membership requests in a single thread; one request per 
 				<p>Project Website: <a target="_blank" href="http://www.sabredav.org/">www.sabredav.org</a></p>
 				<p>Project Lead: Evert Pot (<a href="http://twitter.com/#!/evertp/">@evertp</a>)</p>
 			</div>
+		</li>	
+		<li>
+			<a href="#" class="project-title" title="SugarCRM">SugarCRM</a>
+			<div class="project-info"> 
+				<p>Project Website: <a target="_blank" href="http://developers.sugarcrm.com/wordpress">developers.sugarcrm.com/wordpress</a></p>
+				<p>Project Lead: John Mertic (<a href="http://twitter.com/#!/jmertic/">@evertp</a>)</p>
+			</div>
 		</li>
 		<li>
 			<a href="#" class="project-title" title="Symfony2">Symfony2</a>
